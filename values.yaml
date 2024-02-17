@@ -1,4 +1,4 @@
 deployment:
   replicas: 2
 ingress:
-  host: perf-micro-services-admin.edshopper.com
+  host: perf-micro-services-admin.k4m.in
