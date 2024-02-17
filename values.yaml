@@ -1,4 +1,4 @@
 deployment:
   replicas: 1
 ingress:
-  host: dev-micro-services-admin.edshopper.com
+  host: dev-micro-services-admin.k4m.in
